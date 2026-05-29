@@ -26,8 +26,15 @@ jobs:
       working-directory: ./japan-transfer-site
       run: npm run build
     
+    - name: Copy files to root
+      run: |
+        cp japan-transfer-site/src/index.html ./
+        cp -r japan-transfer-site/styles ./
+        cp -r japan-transfer-site/scripts ./
+        cp -r japan-transfer-site/public ./
+    
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./japan-transfer-site
+        publish_dir: ./
