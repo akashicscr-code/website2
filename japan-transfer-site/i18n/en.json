@@ -1,0 +1,78 @@
+{
+  "homepage": {
+    "title": "Japan Airport Transfer & Charter Services | Tokyo / Osaka / Mount Fuji | Licensed Vehicles",
+    "banner": "Alpha & Hiace Real Photos",
+    "selling_point": "Licensed green plate vehicles, full insurance. On-time pickup, luggage assistance, peace of mind throughout.",
+    "services": {
+      "airport_transfer": "Airport Transfer (Narita / Haneda / Kansai / Chubu)",
+      "private_charter": "Custom Charter (Mount Fuji, Kyoto, Nara, Hokkaido)",
+      "business_tour": "Business / Tour Charter (Meetings, Sightseeing, Groups)"
+    }
+  },
+  "services": {
+    "range": {
+      "tokyo": "Tokyo: Narita ↔ City Center, Haneda ↔ City Center, Tokyo City, Yokohama, Hakone, Mount Fuji",
+      "osaka": "Osaka: Kansai ↔ Osaka / Kyoto / Nara, Kobe",
+      "others": "Others: Hokkaido (New Chitose ↔ Sapporo), Fukuoka, etc."
+    },
+    "advantages": [
+      "Toyota Alphard (7-seater luxury), Hiace (9-seater business)",
+      "Licensed operation, full insurance",
+      "Flight delay waiting service, free luggage handling",
+      "24/7 online customer service, book anytime"
+    ]
+  },
+  "vehicles": {
+    "alphard": {
+      "title": "Toyota Alphard",
+      "seats": "7 seats (4 independent seats + rear seat)",
+      "suitable_for": "2–6 people, families / business, lots of luggage",
+      "features": "Luxury interior, electric doors, independent air conditioning, quiet and comfortable"
+    },
+    "hiace": {
+      "title": "Toyota Hiace",
+      "seats": "9 seats (including driver)",
+      "suitable_for": "7–8 people, small groups, skiing / golf with large luggage",
+      "features": "High roof, super large luggage compartment, spacious"
+    }
+  },
+  "pricing": {
+    "airport_transfer": {
+      "tokyo": {
+        "haneda": "Approx. 12,000 JPY",
+        "narita": "Approx. 18,000 JPY"
+      },
+      "osaka": {
+        "kansai": "Approx. 15,000 JPY"
+      }
+    },
+    "charter": {
+      "alphard": "Approx. 60,000 JPY and up (10 hours, including driver + fuel)",
+      "hiace": "Approx. 80,000 JPY and up (10 hours, including driver + fuel)"
+    }
+  },
+  "booking": {
+    "steps": [
+      "Contact customer service (WhatsApp: +86 199 6988 2825)",
+      "Provide: Date, flight number, number of people, number of luggage, destination",
+      "Customer service quote → Confirmation → Reservation"
+    ],
+    "payment": "Cash / bank transfer after completion"
+  },
+  "contact": {
+    "whatsapp": "WhatsApp: +86 199 6988 2825",
+    "service_hours": "Customer service hours: 24 hours (Japan time)"
+  },
+  "faq": {
+    "questions": [
+      {
+        "question": "What services do you offer?",
+        "answer": "We offer airport transfers, private charters, and sightseeing tours."
+      },
+      {
+        "question": "How can I book a service?",
+        "answer": "You can contact us via WhatsApp to book a service."
+      }
+    ]
+  }
+}

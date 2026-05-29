@@ -1,0 +1,20 @@
+{
+  "name": "japan-transfer-site",
+  "version": "1.0.0",
+  "description": "A lightweight corporate showcase website for Japan transfer services.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build styles/tailwind.css -o styles/styles.css",
+    "watch": "tailwindcss build styles/tailwind.css -o styles/styles.css --watch"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "postcss": "^8.4.6",
+    "autoprefixer": "^10.4.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
